@@ -1,0 +1,5 @@
+Flask==2.3.2
+Flask-SQLAlchemy==3.0.3
+psycopg2-binary==2.9.7
+Flask-Cors==4.0.0
+gunicorn==21.2.0
